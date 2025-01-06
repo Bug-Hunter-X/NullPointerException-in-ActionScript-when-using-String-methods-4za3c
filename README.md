@@ -1,0 +1,1 @@
+This repository demonstrates a common error in ActionScript 3: a NullPointerException when calling methods on a String object that is actually null. The bug.as file contains the buggy code. The bugSolution.as file provides a solution by checking for null values before performing any String operations.
